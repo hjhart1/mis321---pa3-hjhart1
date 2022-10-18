@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "8X62zGfSpP/KKhdsz5pqzhkSSqz4O5pJ/A2rJCEC5A1j6KFiq8FtVtXvedL3BPEO+sKGnKVBhOJhscUMndyvSw==",
+  "dgSpecHash": "w67f7TzJTQOtx9tKmhwjCsSjJeNvuyxqlOIUb51xJg+vv6DeFU85RfKs9YQLkNkYzQY3Z6cfo6zH5Zt5Uu+xWw==",
   "success": true,
   "projectFilePath": "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\mis321---pa3-hjhart1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hunte\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\hunte\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
   "logs": []
 }
