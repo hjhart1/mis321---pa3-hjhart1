@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\mis321---pa3-hjhart1.csproj": {}
+    "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\api\\api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\mis321---pa3-hjhart1.csproj": {
+    "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\api\\api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\mis321---pa3-hjhart1.csproj",
-        "projectName": "mis321---pa3-hjhart1",
-        "projectPath": "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\mis321---pa3-hjhart1.csproj",
+        "projectUniqueName": "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\api\\api.csproj",
+        "projectName": "api",
+        "projectPath": "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\api\\api.csproj",
         "packagesPath": "C:\\Users\\hunte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\obj\\",
+        "outputPath": "C:\\Users\\hunte\\OneDrive\\Desktop\\UAFALL22\\MIS321\\Source\\repos\\mis321---pa3-hjhart1\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hunte\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -38,9 +38,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "mysql.data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
             }
           },
           "imports": [

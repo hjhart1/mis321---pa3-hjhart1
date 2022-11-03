@@ -1,0 +1,7 @@
+C:\Users\hunte\OneDrive\Desktop\UAFALL22\MIS321\Source\repos\mis321---pa3-hjhart1\api\obj\Debug\net6.0\api.csproj.AssemblyReference.cache
+C:\Users\hunte\OneDrive\Desktop\UAFALL22\MIS321\Source\repos\mis321---pa3-hjhart1\api\obj\Debug\net6.0\api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\OneDrive\Desktop\UAFALL22\MIS321\Source\repos\mis321---pa3-hjhart1\api\obj\Debug\net6.0\api.AssemblyInfoInputs.cache
+C:\Users\hunte\OneDrive\Desktop\UAFALL22\MIS321\Source\repos\mis321---pa3-hjhart1\api\obj\Debug\net6.0\api.AssemblyInfo.cs
+C:\Users\hunte\OneDrive\Desktop\UAFALL22\MIS321\Source\repos\mis321---pa3-hjhart1\api\obj\Debug\net6.0\api.csproj.CoreCompileInputs.cache
+C:\Users\hunte\OneDrive\Desktop\UAFALL22\MIS321\Source\repos\mis321---pa3-hjhart1\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hunte\OneDrive\Desktop\UAFALL22\MIS321\Source\repos\mis321---pa3-hjhart1\api\obj\Debug\net6.0\api.MvcApplicationPartsAssemblyInfo.cache

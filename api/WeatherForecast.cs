@@ -1,4 +1,4 @@
-namespace mis321___pa3_hjhart1;
+namespace api;
 
 public class WeatherForecast
 {
